@@ -13,3 +13,4 @@ services:
 //inclusion de los puertos//
 volumes:
   jenkins_home:
+// Se verifica la version actualizada//
