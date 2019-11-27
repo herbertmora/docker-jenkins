@@ -19,5 +19,5 @@ $ docker exec -it dockerjenkins_master_1 cat /var/jenkins_home/secrets/initialAd
 ```
 
 ---
-
+//  Se deben realizar las prue necesarias//
 Tags: devops, docker, jenkins, maven
