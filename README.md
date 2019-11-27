@@ -1,6 +1,6 @@
 # docker-jenkins
 [Jenkins](https://jenkins.io/) sobre [Docker](https://www.docker.com/). Se incluye la instalación de Maven y de plugins.
-
+//pasos de instalacion del docker jenkins//
 Para construir la imagen, ejecutar el siguiente comando:
 ```
 $ docker-compose build
